@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636991246 source:c:\users\veinsmoke\documents\my_c\sort_algo_taha\main.c
+	<stdio.h>
+	<stdlib.h>
+
